@@ -1,6 +1,6 @@
 # apprunner-multiregion
 
-This project contains infrastructure and application source code for deploying a sample, highly resilient, multi-region application running on AWS AppRunner and DynamoDB.  It contains the companion source code for the [Architecting for Resiliency using AWS App Runner blog post]().  The IaC code is written in Terraform and the application code is written in Go and Next.js.
+This project contains infrastructure and application source code for deploying a sample, highly resilient, multi-region application running on AWS AppRunner and DynamoDB.  It contains the companion source code for the [Architecting for Resiliency using AWS App Runner blog post](https://aws.amazon.com/blogs/containers/architecting-for-resiliency-on-aws-app-runner/).  The IaC code is written in Terraform and the application code is written in Go and Next.js.
 
 
 ## Usage
